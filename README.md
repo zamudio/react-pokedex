@@ -29,7 +29,10 @@ Built with:
 - [Bootstrap](https://getbootstrap.com/)
 
 ## Features
-Each Pokemon can be individually selected to display more information
+- Layout built with React
+- Styled with Bootstrap + Custom CSS
+- Fully Responsive
+- Each Pokemon can be individually selected to display more information
 
 ## API Reference
 
