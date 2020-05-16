@@ -8,7 +8,7 @@ I built this to gain more experience with react and bootstrap, and to have fun.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f00e3113-ddf4-4301-a687-e0609e5d5fef/deploy-status)](https://app.netlify.com/sites/pokedex-reacted/deploys)
  
 ## Screenshots
-Include logo/demo screenshot etc.
+<img src="https://github.com/zamudio/react-pokedex/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## Tech/framework used
 
