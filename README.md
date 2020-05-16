@@ -4,7 +4,7 @@ An app built with React to display all original Pokemon and any information asso
 ## Motivation
 I built this to gain more experience with react and bootstrap, and to have fun.
 
-## Screenshots
+## Screenshot
 <img src="https://github.com/zamudio/react-pokedex/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## How to use?
